@@ -1,1 +1,1 @@
-# comming soon
+* [Training a regression model on the Auto MPG dataset to predict fuel efficiency](https://github.com/UgurUysal86/My-ML-Notebooks/blob/main/regression/ex-2/20240320_Training_a_regression_model_on_the_Auto_MPG_dataset_to_predict_fuel_efficiency.ipynb)
