@@ -1,1 +1,1 @@
-# comming soon
+* [Training a regression model on a simple linear dataset](https://github.com/UgurUysal86/My-ML-Notebooks/blob/main/regression/ex-1/20240520_Training_a_regression_model_on_a_simple_linear_dataset.ipynb)
