@@ -10,8 +10,8 @@ This repository features my personal Machine Learning Notebooks for supervised l
 * ### [1.2.2 Training a regression model on the Auto MPG dataset to predict predict fuel efficiency](https://github.com/UgurUysal86/My-ML-Notebooks/blob/main/regression/ex-2.md)
 
 ## 1.3 Classification examples on structured data
-* ### [1.3.1 Training a classification model on the spambase dataset to predict if an email is spam or not](https://github.com/UgurUysal86/)
-* ### [1.3.2 Training a classification model on the keystrokes dynamics dataset to predict the identity of an user based on their typing patterns](https://github.com/UgurUysal86/)
+* ### [1.3.1 Training a classification model on the spambase dataset to predict if an email is spam or not](https://github.com/UgurUysal86/My-ML-Notebooks/blob/main/classification-structured-data/ex-1.md)
+* ### [1.3.2 Training a classification model on the keystrokes dynamics dataset to predict the identity of an user based on their typing patterns](https://github.com/UgurUysal86/My-ML-Notebooks/blob/main/classification-structured-data/ex-2.md)
 
 ## 1.4 Classification examples on image data
 * ### [1.4.1 Training an image classification model from scratch on the CIFAR10 dataset](https://github.com/UgurUysal86/)
