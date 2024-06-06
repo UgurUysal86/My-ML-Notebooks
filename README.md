@@ -14,10 +14,10 @@ This repository features my personal Machine Learning Notebooks for supervised l
 * ### [1.3.2 Training a classification model on the keystrokes dynamics dataset to predict the identity of an user based on their typing patterns](https://github.com/UgurUysal86/My-ML-Notebooks/blob/main/classification-structured-data/ex-2.md)
 
 ## 1.4 Classification examples on image data
-* ### [1.4.1 Training an image classification model from scratch on the CIFAR10 dataset](https://github.com/UgurUysal86/)
-* ### [1.4.2 Finetuning a pretrained image classification model with a syntethic image dataset to detect different types of tanks](https://github.com/UgurUysal86/)
-* ### [1.4.3 Detecting Military Objects on Images Using a Pretrained image Classification Model](https://github.com/UgurUysal86/)
-* ### [1.4.4 Detecting Tanks on Images Using a Pretrained Object Detection Model](https://github.com/UgurUysal86/)
+* ### [1.4.1 Training an image classification model from scratch on the CIFAR10 dataset](https://github.com/UgurUysal86/My-ML-Notebooks/blob/main/classification-image-data/ex-1.md)
+* ### [1.4.2 Finetuning a pretrained image classification model with a syntethic image dataset to detect different types of tanks](https://github.com/UgurUysal86/My-ML-Notebooks/blob/main/classification-image-data/ex-2.md)
+* ### [1.4.3 Detecting Military Objects on Images Using a Pretrained image Classification Model](https://github.com/UgurUysal86/My-ML-Notebooks/blob/main/classification-image-data/ex-3.md)
+* ### [1.4.4 Detecting Tanks on Images Using a Pretrained Object Detection Model](https://github.com/UgurUysal86/My-ML-Notebooks/blob/main/classification-image-data/ex-4.md)
 
 
 # 2. Reinforcement Learning
