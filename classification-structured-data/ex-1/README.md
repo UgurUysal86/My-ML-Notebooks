@@ -1,1 +1,1 @@
-# comming soon
+* [Training a classification model on the spambase dataset to predict if an email is spam or not](https://github.com/UgurUysal86/My-ML-Notebooks/blob/main/classification-structured-data/ex-1/20230813_Training_a_classification_model_on_the_spambase_dataset_to_predict_if_an_email_is_spam_or_not.ipynb)
