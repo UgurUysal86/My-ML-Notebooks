@@ -6,8 +6,8 @@ This repository features my personal Machine Learning Notebooks for supervised l
 ## 1.1 Supervised Learning Basics
 
 ## 1.2 Regression examples
-* ### [1.2.1 Training a regression model on a simple linear dataset](https://github.com/UgurUysal86/My-ML-Notebooks/tree/main/regression-example-1)
-* ### [1.2.2 Training a regression model on the Auto MPG dataset to predict predict fuel efficiency](https://github.com/UgurUysal86/My-ML-Notebooks/tree/main/regression-example-2)
+* ### [1.2.1 Training a regression model on a simple linear dataset](https://github.com/UgurUysal86/My-ML-Notebooks/blob/main/regression/ex-1.md)
+* ### [1.2.2 Training a regression model on the Auto MPG dataset to predict predict fuel efficiency](https://github.com/UgurUysal86/My-ML-Notebooks/blob/main/regression/ex-2.md)
 
 ## 1.3 Classification examples on structured data
 * ### [1.3.1 Training a classification model on the spambase dataset to predict if an email is spam or not](https://github.com/UgurUysal86/)
