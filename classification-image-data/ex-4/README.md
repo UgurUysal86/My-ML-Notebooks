@@ -1,1 +1,1 @@
-# comming soon
+[Detecting Tanks on Images Using a Pretrained Object Detection Model](https://github.com/UgurUysal86/My-ML-Notebooks/blob/main/classification-image-data/ex-4/20240520_Detecting_Tanks_on_Images_Using_a_Pretrained_Object_Detection_Model.ipynb)
