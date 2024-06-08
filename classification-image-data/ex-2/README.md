@@ -1,1 +1,1 @@
-# comming soon
+* [https://colab.research.google.com/drive/158zo6dHVuCiOhOEm_av22xdtc7KrVD7w](https://github.com/UgurUysal86/My-ML-Notebooks/blob/main/classification-image-data/ex-2/Finetuning_a_pretrained_image_classification_model_with_a_syntethic_image_dataset_to_detect_different_types_of_tanks.ipynb)
