@@ -1,1 +1,1 @@
-# coming soon
+* [Detecting Military Objects on Images Using a Pretrained image Classification Model](https://github.com/UgurUysal86/My-ML-Notebooks/blob/main/classification-image-data/ex-3/20240520_Detecting_Military_Objects_on_Images_Using_a_Pretrained_image_Classification_Model.ipynb)
