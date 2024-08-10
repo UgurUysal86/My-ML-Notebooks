@@ -1,1 +1,1 @@
-# comming soon
+* [Training a classification model on the Auto MPG dataset to predict the origin of cars](https://github.com/UgurUysal86/My-ML-Notebooks/blob/main/classification-structured-data/ex-2/20240810_Training_a_classification_model_on_the_Auto_MPG_dataset_to_predict_the_origin_of_cars.ipynb)
