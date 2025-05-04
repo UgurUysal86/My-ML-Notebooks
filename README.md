@@ -12,6 +12,7 @@ This repository features my personal Machine Learning Notebooks for supervised l
 ## 1.3 Classification examples on structured data
 * ### [1.3.1 Training a classification model on the spambase dataset to predict if an email is spam or not](https://github.com/UgurUysal86/My-ML-Notebooks/tree/main/classification-structured-data/ex-1)
 * ### [1.3.2 Training a classification model on the Auto MPG dataset to predict the origin of cars](https://github.com/UgurUysal86/My-ML-Notebooks/tree/main/classification-structured-data/ex-2)
+* ### [1.3.3 Training a classification model on the Keystroke Dynamics Benchmark Data Set to predict a user based on their typing patterns](https://github.com/UgurUysal86/My-ML-Notebooks/tree/main/classification-structured-data/ex-3)
 
 ## 1.4 Classification examples on image data
 * ### [1.4.1 Training an image classification model from scratch on the CIFAR10 dataset](https://github.com/UgurUysal86/My-ML-Notebooks/blob/main/classification-image-data/ex-1)
