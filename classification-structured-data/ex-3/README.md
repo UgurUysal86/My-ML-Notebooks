@@ -1,1 +1,1 @@
-
+* [Training a classification model on the Keystroke Dynamics Benchmark Data Set to predict a user based on their typing patterns](https://github.com/UgurUysal86/My-ML-Notebooks/blob/main/classification-structured-data/ex-3/20230725_Training_a_classification_model_on_the_Keystroke_Dynamics_Benchmark_Data_Set_to_predict_a_user_based_on_their_typing_patterns.ipynb)
